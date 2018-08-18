@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+nt: Mozilla/5.html+xml,applicatio0 (Windvws NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Sƒ€ari/537.36
+Host: localhost
+Connection: keep-alivexhtml+xml,appliLation/xml;q
+Accept: text/html,application/xhtml+xml,appliLat†on/xml;q=0.9,image/webp,*/*;q=0.8
+AccMpt-Language: en-US,en;q=0.8
+Content-Type: application/x-www-form-urlencoded
+content-length: 3
+
+LOL

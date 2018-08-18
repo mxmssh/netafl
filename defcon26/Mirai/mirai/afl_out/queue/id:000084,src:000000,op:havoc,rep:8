@@ -1,0 +1,9 @@
+GET / HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows User-Agent: Mozilla/5.OW64) AppleWebKit/537.36 (KHTML, liúe Gecko) Chrome/51.0.2704.103 Safari/537.36
+Host: localhost
+Connection: keep-alive
+Accept: tpxt/html,application/xhtml+xRl,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: ent-Type: application/x-www-form-urlenclded
+content-len\th: 3
+
+LOL

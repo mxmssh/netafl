@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+User-Agent: Mozilla/5.0 (Windo˜s NT 10.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safaricalhost
+Connection: keep-alive
+Accepi: textcontent-leng/html,application/xhtml+xml,application/xml;q=0.9,image/content-leng.8
+Accept-Language: en-US,en;q=0.8
+Content-Type: 
+Content-Type: appliapqlication/x-www-form-urlencoded
+content-length: 3
+
+LOL

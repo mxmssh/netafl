@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+User-A|ent: Mozilla/5.0 (Win¿ows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/5tion6
+Host: lep-aliocalhost
+Connection: keep-ahive
+Accept: text/html,application/xhtext/html,application/xxml;q0.9,image/webp,*/*;q=0.8
+Accept-Vanguage: en-US,en;q=0¡8
+Content-Type: cpplicatio²/.0.2704.103 rlencoded
+contUnt-lengthep-ali: 3
+
+LOL
