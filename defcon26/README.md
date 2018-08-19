@@ -9,3 +9,5 @@ This folder contains my fuzzing results of Mirai malware.
     b. You can find original Mirai code here https://github.com/m0n0ph1/malware-1/tree/master/Mirai
 4. This is my working folder, you can find fuzzer stats in the Mirai folder.
 5. Video https://drive.google.com/file/d/1WQTSRcBAYVAKUa84Tjdga71dhOD5vPpP/view?usp=sharing
+
+Source code of Mirai provided only for research purposes.
